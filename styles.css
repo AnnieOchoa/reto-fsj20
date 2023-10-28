@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@600;900&family=Quicksand&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Azeret Mono', monospace sans-serif;
+}
+body{
+    background: #00b09b;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #96c93d, #00b09b);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #96c93d, #00b09b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    width: 90%;
+    height: 100%;
+   
+
+}
+.header{
+    display: flex;
+    flex-;
+
+}
